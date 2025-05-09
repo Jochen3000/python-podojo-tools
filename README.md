@@ -4,7 +4,7 @@ This Python script anonymizes German text by removing or replacing Personally Id
 
 ## Prerequisites
 
-- **Python 3.10+**: If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+- **Python > 3.10+**: If you don't have Python 3.10 or above installed, you can download it from [python.org](https://www.python.org/downloads/).
 - **pip**: Python's package installer. It usually comes with Python. If not, see [pip installation guide](https://pip.pypa.io/en/stable/installation/).
 
 ## Setup and Usage
@@ -14,6 +14,7 @@ Follow these steps to set up and run the script:
 **1. Clone or Download the Code**
 
 If you have git installed, you can clone the repository.
+git clone https://github.com/Jochen3000/python-podojo-tools
 
 **2. Create a Virtual Environment (Recommended)**
 
