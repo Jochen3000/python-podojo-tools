@@ -14,7 +14,10 @@ Follow these steps to set up and run the script:
 **1. Clone or Download the Code**
 
 If you have git installed, you can clone the repository.
+
+```bash
 git clone https://github.com/Jochen3000/python-podojo-tools
+```
 
 **2. Create a Virtual Environment (Recommended)**
 
